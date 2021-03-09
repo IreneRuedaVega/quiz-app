@@ -26,7 +26,7 @@ export const Wrapper = styled.div`
   align-items: center;
 
   > p {
-    color: #fff;
+    color: white;
   }
 
   .score {
